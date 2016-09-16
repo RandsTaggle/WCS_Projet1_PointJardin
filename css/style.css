@@ -1,0 +1,36 @@
+
+
+body {
+    min-height: 100vh;
+    display: flex;    
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    flex: 1 0 auto;
+  }
+
+/************************/
+/*      FOOTER          */
+/************************/
+footer {
+
+    height: 70px;
+    margin-top: auto;
+    display: flex;
+    flex: 0 0 auto;
+}
+
+.navbar-center {
+    display: flex!important;
+    float: none;
+    margin: 0 auto;
+    justify-content: center;
+     /*transform: translateX(32%);*/
+}
+
+ul li {
+    transition: 1s!important;
+}
