@@ -1,7 +1,6 @@
-
-
 body {
     min-height: 100vh;
+    min-width: 1111px;
     display: flex;    
     flex-direction: column;
     margin: 0;
@@ -10,11 +9,52 @@ body {
 
 main {
     flex: 1 0 auto;
-  }
+}
 
 /************************/
-/*      FOOTER          */
+/*      HEADER (Cyril)  */  
 /************************/
+
+header {
+    /* background-color: yellow; */
+    background-color: #EBECE4;
+    display: block;
+    width: 100%;
+    vertical-align: top;
+}
+
+.grey-header-bar {
+    background-color: #484545;
+}
+
+.no-margin {
+    margin: 0px 0px 0px 0px !important;
+    padding: 0px 0px 0px 0px !important;
+}
+
+/* Prevents rows from adding new margins automatically */
+.row {
+    margin: 0px 0px 0px 0px !important;
+    padding: 0px 0px 0px 0px !important;
+}
+
+#main-menu {
+    box-shadow: none !important;
+}
+
+.flex-menu {
+    display: flex;
+    justify-content: center;
+}
+
+li .btn:hover{
+    background-color: lightgreen !important;
+}
+
+/************************/
+/*      FOOTER (Pascal) */
+/************************/
+
 footer {
 
     height: 70px;
@@ -28,7 +68,7 @@ footer {
     float: none;
     margin: 0 auto;
     justify-content: center;
-     /*transform: translateX(32%);*/
+    /*transform: translateX(32%);*/
 }
 
 ul li {
