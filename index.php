@@ -102,18 +102,14 @@
                                 </div>
                             </div>
                         </div>
-
-
-
-
                     </div>
                 </div>
             </div>
 
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row">
-                    <div class="col">s12 m6 l4</div>
-                    <div class="col s12 m6 l4">
+                    <!--                    <div class="col">s12 m6 l4</div>-->
+                    <div class="col s12 m6 offset-m4 l4 offset-l4">
                         <div class="card">
                             <div class="card-image">
                                 <img id="logo-image" src="img/logo-point-jardin.jpg" alt="logo point jardin">
@@ -124,11 +120,11 @@
             </div>
 
 
-            <div class="row">
-                <div class="col s12 m6 l4">col s12 m6 l4</div>
-                <div class="col s12 m6 l4">col s12 m6 l4</div>
-                <div class="col s12 l4">col s12 l4</div>
-            </div>
+            <!--            <div class="row">
+                            <div class="col s12 m6 l4">col s12 m6 l4</div>
+                            <div class="col s12 m6 l4">col s12 m6 l4</div>
+                            <div class="col s12 l4">col s12 l4</div>
+                        </div>-->
 
             <!--            <div class="row" id="test1">
                             <div id="testVideo" class="col s12 m6 l4 center">  
