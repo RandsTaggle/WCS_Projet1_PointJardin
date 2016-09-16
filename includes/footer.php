@@ -20,7 +20,10 @@
                 </div>
             </div>
             <div class="col l4 s12">
-                <div class="fb-page" data-href="https://www.facebook.com/pointjardin" data-width="380" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/pointjardin" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/pointjardin" class="white-text">Point Jardin sur Facebook</a></blockquote></div>
+                <div class="fb-page row" data-href="https://www.facebook.com/pointjardin" data-width="380" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/pointjardin" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/pointjardin" class="white-text">Point Jardin sur Facebook</a></blockquote></div>
+                <div class="row">
+                    <a class="waves-effect waves-light btn green darken-2" href="formulaire.php">Nous contacter</a>
+                </div>
             </div>
         </div>
         <div class="footer-copyright">
@@ -37,5 +40,4 @@
 <!--Import jQuery before materialize.js-->
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="js/materialize.min.js"></script>
-
 <script type="text/javascript" src="js/jardin.js"></script>
