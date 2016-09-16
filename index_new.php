@@ -13,9 +13,9 @@
     <body class="no-margin">
         <div id="page-body">
             <header class="no-margin container-fluid">
-                <div class="row grey-header-bar">
-                    <p>Header grey bar</p>
-                </div>
+                <!--                <div class="row grey-header-bar center">
+                                    <p>Header grey bar</p>
+                                </div>-->
                 <div class="row header-title center">
                     <img src="sources/main_title_vacances.png" alt="Point Jardin, la qualité à prix malin - Likez notre page Facebook pour rester informé des Promos et Actus !"/>
                 </div>
@@ -91,16 +91,16 @@
             <div>		<!-- Social networks slider -->
 
                 <footer>	<!-- Copyrights -->
-                    <!-- Dropdown Trigger -->
-                    <a class=' btn' href='#' data-activates='dropdown1'>Drop Me!</a>
-
-                    <!-- Dropdown Structure -->
-                    <ul id='dropdown1' class='dropdown-content'>
-                        <li><a href="#!">one</a></li>
-                        <li><a href="#!">two</a></li>
-                        <li class="divider"></li>
-                        <li><a href="#!">three</a></li>
-                    </ul>
+                    <!--                     Dropdown Trigger 
+                                        <a class=' btn' href='#' data-activates='dropdown1'>Drop Me!</a>
+                    
+                                         Dropdown Structure 
+                                        <ul id='dropdown1' class='dropdown-content'>
+                                            <li><a href="#!">one</a></li>
+                                            <li><a href="#!">two</a></li>
+                                            <li class="divider"></li>
+                                            <li><a href="#!">three</a></li>
+                                        </ul>-->
                 </footer>
             </div>
 
